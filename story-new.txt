@@ -1,0 +1,4 @@
+Hi,
+this is a story in master. 
+
+The story continues in master.
