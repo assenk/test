@@ -2,3 +2,5 @@ Hi,
 this is a story in master. 
 
 The story continues in master.
+
+Waiting for feature #1.
